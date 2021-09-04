@@ -1,4 +1,4 @@
-package playerCaracter;
+package playableCaracter;
 
 public class PlayerCaracter {
 }
