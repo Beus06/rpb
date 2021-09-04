@@ -6,8 +6,6 @@ public class Game_Session_Character {
     private long chr_lvl;
     private long chr_xp;
 
-    public Game_Session_Character() {}
-
     public Game_Session_Character(long chr_lvl, long chr_xp) {
         this.chr_lvl = chr_lvl;
         this.chr_xp = chr_xp;

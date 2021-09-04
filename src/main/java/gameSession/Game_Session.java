@@ -7,8 +7,6 @@ public class Game_Session {
     private long id;
     private DateTimeAtCompleted game_end_date;
 
-    public Game_Session() {}
-
     public Game_Session(DateTimeAtCompleted game_end_date) {
         this.game_end_date = game_end_date;
     }
