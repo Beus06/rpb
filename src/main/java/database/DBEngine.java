@@ -18,7 +18,7 @@ public class DBEngine {
     private Connection connection;
 
     private Connection connect() {
-        String url = "jdbc:mysql://localhost:3306/dragonDB" +
+        String url = "jdbc:mysql://localhost:3306/rpgDB_script" +
                 "?useUnicode=yes&characterEncoding=UTF-8";
 
         Properties properties = new Properties();
